@@ -1,1 +1,1 @@
-# theme-poc
+Magento2 POC Demo theme

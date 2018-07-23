@@ -1,0 +1,10 @@
+<!--
+/**
+ * Copyright © 2018 Magento. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+-->
+<theme xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Config/etc/theme.xsd">
+    <title>MagentoEse Poc</title>
+    <parent>Magento/luma</parent>
+</theme>
